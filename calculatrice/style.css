@@ -1,0 +1,27 @@
+header{
+    
+    height:40vh;
+    width:100vw;
+    background-color:grey;
+    text-align:center;
+    
+}
+#prompt{
+    width:20%;
+    font-size:40px;
+    padding-top:17vh;
+    margin:0 auto;
+}
+
+ul{
+    
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    height:50vh;
+    width:100vw;
+}
+li{
+    text-align:center;
+    list-style-type: none;
+    font-size:30px;
+}
