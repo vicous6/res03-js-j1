@@ -75,7 +75,7 @@ clean.addEventListener("click", function() {
 
 
     num0 = "";
-    num0 = "";
+    num1 = "";
     currOpe = "";
     currentNumber = 0
     div.innerHTML="nothing"
